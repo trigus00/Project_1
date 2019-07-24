@@ -1,1 +1,1 @@
-API KEY =  
+gkey = "AIzaSyCgBwyGsNGpg15Zmq_xKP5CuD9VdBUoJmw" 
