@@ -1,4 +1,4 @@
-Project Title - Income vs Education data analysis
+Project Title - Income vs Education in the US data analysis
 
 
 Jupyter Notebooks - 
